@@ -12,6 +12,9 @@ namespace semana1_c_
         {
             ejer1();
             Console.ReadKey();
+            
+            ejer2();
+            Console.ReadLine();
         }
 
         static void ejer1()
@@ -25,7 +28,8 @@ namespace semana1_c_
 
             Console.WriteLine($"\n{nombre}, bienvenido a FA de {carrera}");
             
-        } 
-        
+        }
+
+        static void ejer2();
     }           
 }
