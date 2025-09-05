@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\semana3vier\fa_semana1vier\semana1-c#\bin\Debug\semana1-c#.exe.config
+C:\Users\UPN\Desktop\semana3vier\fa_semana1vier\semana1-c#\bin\Debug\semana1-c#.exe
+C:\Users\UPN\Desktop\semana3vier\fa_semana1vier\semana1-c#\bin\Debug\semana1-c#.pdb
+C:\Users\UPN\Desktop\semana3vier\fa_semana1vier\semana1-c#\obj\Debug\semana1-c#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\semana3vier\fa_semana1vier\semana1-c#\obj\Debug\semana1-c#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\semana3vier\fa_semana1vier\semana1-c#\obj\Debug\semana1-c#.exe
+C:\Users\UPN\Desktop\semana3vier\fa_semana1vier\semana1-c#\obj\Debug\semana1-c#.pdb
